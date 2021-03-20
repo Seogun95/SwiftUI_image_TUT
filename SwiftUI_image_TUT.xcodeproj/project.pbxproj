@@ -11,6 +11,8 @@
 		6C4A4A752606386E00D7CF15 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4A4A742606386E00D7CF15 /* ContentView.swift */; };
 		6C4A4A772606386F00D7CF15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C4A4A762606386F00D7CF15 /* Assets.xcassets */; };
 		6C4A4A7A2606386F00D7CF15 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C4A4A792606386F00D7CF15 /* Preview Assets.xcassets */; };
+		6C4A4A832606388A00D7CF15 /* CircleImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4A4A822606388A00D7CF15 /* CircleImageView.swift */; };
+		6C4A4A8626063E7C00D7CF15 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4A4A8526063E7C00D7CF15 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		6C4A4A762606386F00D7CF15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C4A4A792606386F00D7CF15 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6C4A4A7B2606386F00D7CF15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C4A4A822606388A00D7CF15 /* CircleImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImageView.swift; sourceTree = "<group>"; };
+		6C4A4A8526063E7C00D7CF15 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				6C4A4A722606386E00D7CF15 /* SwiftUI_image_TUTApp.swift */,
 				6C4A4A742606386E00D7CF15 /* ContentView.swift */,
+				6C4A4A8526063E7C00D7CF15 /* WebView.swift */,
+				6C4A4A822606388A00D7CF15 /* CircleImageView.swift */,
 				6C4A4A762606386F00D7CF15 /* Assets.xcassets */,
 				6C4A4A7B2606386F00D7CF15 /* Info.plist */,
 				6C4A4A782606386F00D7CF15 /* Preview Content */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C4A4A752606386E00D7CF15 /* ContentView.swift in Sources */,
+				6C4A4A8626063E7C00D7CF15 /* WebView.swift in Sources */,
+				6C4A4A832606388A00D7CF15 /* CircleImageView.swift in Sources */,
 				6C4A4A732606386E00D7CF15 /* SwiftUI_image_TUTApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
